@@ -3,8 +3,6 @@
 
 👔 I'm currently working as a software engineer focused on quality assurance
 
-📗 I'm currently learning about test automation tools: Cypress and Selenium with Java
-
 💁‍♀️ Pronouns: She/Her
 <br>
 <div style="display: inline_block"><br>
